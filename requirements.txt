@@ -1,3 +1,5 @@
 pip install django psycopg2-binary
-
 pip install django
+pip install os
+pip install logger
+pip install psycopg2
